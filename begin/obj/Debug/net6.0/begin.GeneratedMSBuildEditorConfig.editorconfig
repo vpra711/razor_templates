@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = begin
 build_property.RootNamespace = begin
-build_property.ProjectDir = d:\projects\razor\begin\
+build_property.ProjectDir = D:\projects\razor\begin\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\projects\razor\begin
+build_property.MSBuildProjectDirectory = D:\projects\razor\begin
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/projects/razor/begin/App.razor]
+[D:/projects/razor/begin/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Pages/Counter.razor]
+[D:/projects/razor/begin/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Pages/FetchData.razor]
+[D:/projects/razor/begin/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Pages/Index.razor]
+[D:/projects/razor/begin/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Shared/SurveyPrompt.razor]
+[D:/projects/razor/begin/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/_Imports.razor]
+[D:/projects/razor/begin/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Shared/MainLayout.razor]
+[D:/projects/razor/begin/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xbfokv6cal
 
-[d:/projects/razor/begin/Shared/NavMenu.razor]
+[D:/projects/razor/begin/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zunndou67b
 
-[d:/projects/razor/begin/Pages/Error.cshtml]
+[D:/projects/razor/begin/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Pages/_Host.cshtml]
+[D:/projects/razor/begin/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/projects/razor/begin/Pages/_Layout.cshtml]
+[D:/projects/razor/begin/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
